@@ -1,0 +1,19 @@
+*{
+    font-family: 'Patrick Hand', cursive;
+}
+
+.dice-view{
+    color: red;
+}
+.dice-view-second{
+    color: rgb(35, 6, 224);
+}
+
+.score,.score-second{
+    font-size: 2.5rem;
+    margin-top: 1rem;
+}
+
+.chance-one,.chance-two{
+    font-weight: 800;
+}
